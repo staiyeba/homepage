@@ -1,7 +1,8 @@
 .. _faq:
 
-Questions and Answers
-=====================
+FAQ for beginners
+=================
+
 
 .. toctree::
 	comm
