@@ -3,7 +3,6 @@
 Varnish User Group Meeting 9 (VUG9 Barcelona)
 ---------------------------------------------
 
-|image1|
 
 **We invite the Varnish Cache community to meet the developer team on Nov 19-21**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

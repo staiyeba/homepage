@@ -3,9 +3,7 @@
 **Varnish User Group Meeting 7**
 --------------------------------
 (VUG7 NYC)
------------
-
-|VUG7 at New York City|
+----------
 
 `List of attendees available at Eventbrite. This event is sold out! <http://vug7.eventbrite.co.uk>`_
 

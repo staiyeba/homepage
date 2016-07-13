@@ -61,8 +61,9 @@ Thursday,December 3rd 2015
    :name: vug10_agenda1
    :delim: ,
    :header-rows: 0
-   :widths: 20, 30, 50
+   :widths: 10, 40, 50
    :file: tables/vug10_table3.csv
+
 
 **Everyone can join!**
 

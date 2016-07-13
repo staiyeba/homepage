@@ -1,23 +1,22 @@
 Time,Presented by,Topic and duration (Talk + Q&A time) 
 08:45,Registration & Breakfast,Get your badge then grab some bagels and coffee
-09:15," Rubén Romero, Varnish Software  ",Introduction & Agenda for the Day (10 min)    
-09:25," Poul-Henning Kamp, Varnish Chief Architect ",Keynote: Varnish 4.0 and beyond (50 min) 
+09:15,"Rubén Romero, Varnish Software  ",Introduction & Agenda for the Day (10 min)    
+09:25,"Poul-Henning Kamp, Varnish Chief Architect ",Keynote: Varnish 4.0 and beyond (50 min) 
 10:15,"Reza Naghibi, Comcast / Apache Committer  ","dClass, Apache DeviceMap & Varnish (30 min)    "
 10:45,"Craig Campbell & Peter McArthur, Vimeo   ",From Tarnish to Varnish (30 min)   
 11:15,Coffee Break,Get some coffee and do some mingling
 11:30,VCL loving gents:,"Show-your-VCL - Tips, tricks, challenges, wishes  "
-,"Artur Bergman, Fastly   ",- Crazy VCLs (10 min)
-,"Adam Denenberg, Huffington Post ",- TBD (10 min) 
+,"Artur Bergman, Fastly   ", - Crazy VCLs (10 min)
+,"Adam Denenberg, Huffington Post ", - TBD (10 min) 
 ,"Your Name Here, Free Slot ",(10 min)  
-,,
-12:00," Tollef Fog Heen, Varnish Release Manager  ",Varnish 4.0: Release Status & Tech Preview (30 min) 
+12:00,"Tollef Fog Heen, Varnish Release Manager  ",Varnish 4.0: Release Status & Tech Preview (30 min) 
 12:30,Lunch Break - 1 hour,Sponsored by Vimeo & Varnish Software
-13:30," Artur Bergman, Fastly   ",Varnish @ Fastly (30 min)
+13:30,"Artur Bergman, Fastly   ",Varnish @ Fastly (30 min)
 14:00,"Shohei Tanaka, GREE Inc ","Lost in translation: Varnishlog, Varnishtest & VMODs (30 min)           "
 14:30,"Pax Dickinson, Business Insider   ",Scaling Business Insider with Varnish (30 min)  
 15:00,"Matt Robenolt, Disqus",Caching is Hard: Varnish @ Disqus (30 min)    
 15:30,Coffee Break,Get some coffee and do some more mingling
-15:45,"Rubén & Dag H. Finstad, Varnish Software "," The Varnish Academy, Certification, VAC & VCS (30 min)       "
+15:45,"Rubén & Dag H. Finstad, Varnish Software ","The Varnish Academy, Certification, VAC & VCS (30 min)       "
 16:15,"Rubén Romero, Varnish Software  ",Rounding Up VUG7 and plans for VUG8 (Europe) (5 min)  
 16:20,Varnish Mingling,"Grab a t-shirt, a cold beer and do some varnish-talking"
 17:15,We leave Vimeo ,Thank you so much Vimeo!

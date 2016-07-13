@@ -3,7 +3,8 @@
 Varnish User Group Meeting 8 (VUG8 Berlin)
 ------------------------------------------
 
-|Axel Springer HQ|
+Axel Springer HQ
+-----------------
 
 `**Varnish User Day is over now!** <http://vug8.eventbrite.com>`_
 
