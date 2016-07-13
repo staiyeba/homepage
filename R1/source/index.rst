@@ -76,5 +76,5 @@ they collect, it will be discontinued.
    docs/index
    support/index
    extras/index
-   vmods/index
+   vmods/howto
    tips/index

@@ -4,10 +4,11 @@
 --------------------------------
 (VUG6 London)
 -------------
-
++-------------+
 |VUG7 @ London|
++-------------+
 
-Thank you for a great event and your feedback! Make sure to check the `VUG6 report <https://www.varnish-cache.org/vug6-report>`_ and 
+Thank you for a great event and your feedback! Make sure to check the `VUG6 report <https://www.varnish-cache.org/vug6-report>`_ and
 the `notes from the Developer day <https://docs.google.com/a/varnish-software.com/spreadsheet/ccc?key=0Apb8MyYPKVqZdDlNTHl2dExMRllrSV9HUnBLdkxwb3c#gid=0>`_.
 
 Sponsored by `The British Broadcasting Corporation (BBC) <http://www.bbc.co.uk/>`_ and `Varnish Software <https://www.varnish-software.com/>`_, the Sixth Varnish User Group Meeting will take place on October 5th and 6th in London, UK (right after `Velocity Europe 2012 <http://velocityconf.com/velocityeu2012>`_). For any VUG6 related proposal, inquiry or anything related to the event please send an email to`ruben@varnish-software.com <mailto:ruben@varnish-software.com>`_.
@@ -39,11 +40,11 @@ Friday, October 5th, 2012
 
 -  **09.20 - Welcome**
 
--  **Agenda & Introductions** 
+-  **Agenda & Introductions**
 	- `(PDF) <https://www.varnish-cache.org/sites/default/files/01_VUG6%20-%20opening%20-%20Hildur%20copy.pdf>`_
 	by Hrafnhildur Smaradottir, VUG6 Hostess, Varnish Software
 
--  **09.30** - **PHK's Keynote (on HTTP/2.0)** 
+-  **09.30** - **PHK's Keynote (on HTTP/2.0)**
 
 	`(PDF) <https://www.varnish-cache.org/sites/default/files/02_VUG6-PHK_Keynote.pdf>`_ `(Video) <https://www.youtube.com/watch?v=5NYQaDjfcMw&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=1>`_ (45 min)
 
@@ -51,13 +52,13 @@ Friday, October 5th, 2012
 
 -  **10.15** - **Presentations**
 
--  **Varnish at the BBC: Winning Gold in the London 2012 Olympics** 
+-  **Varnish at the BBC: Winning Gold in the London 2012 Olympics**
 	`(PDF) <http://www.slideshare.net/grahamlyons/varnish-at-the-bbc>`_ `(Video) <https://www.youtube.com/watch?v=UBVN0CthfO4&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=2>`_ (30 min)
-	
+
 	by Graham Lyons, BBC
--  **Summoning super hero powers of Varnish, Drupal and open source at KPN** 
+-  **Summoning super hero powers of Varnish, Drupal and open source at KPN**
 	`(PDF) <https://www.varnish-cache.org/sites/default/files/04_VarnishDrupalatKPN.pdf>`_ `(Video) <https://www.youtube.com/watch?v=JeuIAtukq0c&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=3>`_ (20  min)
-	
+
 	by Paul Krischer, KPN
 
 - 11.15 - **Coffee break & Mingling**
@@ -66,14 +67,14 @@ Friday, October 5th, 2012
 
 - **Not everyone respects the rules: implementing Varnish on existing sites **
 	`(PDF) <https://www.varnish-cache.org/sites/default/files/05_varnish_rules_vug6.pdf>`_ `(Video) <https://www.youtube.com/watch?v=WPgwn-gyoj0&list=PLZr%207OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=4>`_ (30min)
-	
+
  	by Thijs Feryn, Combell
 
 - **All the way from 0.8 to 3.0: Varnish @ VG**
 	`(HTML) <http://www.vg.no/presentations/slides/VUG2012.html#/>`_ `(Video) <https://www.youtube.com/watch?v=JYcGU0jwsdk&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=5>`_ (35min) 
-	
+
 	by Audun Ytterdal, VG Multimedia 
-  
+
 **12.30 - Lunch break**
 
 - **BBC sponsored lunch** (Reception Room)
@@ -82,12 +83,12 @@ Friday, October 5th, 2012
 
 - **Smart Pre-Fetching: Varnish @ Yakaz.com**
 	`(PDF) <https://www.varnish-cache.org/sites/default/files/07_Warm_Up_Your_Cache_Pierre-Gilles_yakaz-com.pdf>`_ `(Video) <https://www.youtube.com/watch?v=X-JFAaVjZk0&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=6>`_ (25 min)
-	
+
 	by Pierre-Gilles Mialon, Yakaz.com
 
 - **Varnish Administration Console**
 	`(PDF) <https://www.varnish-cache.org/sites/default/files/09_vac_yveshwang_vug6.pdf>`_ `(Video) <https://www.youtube.com/watch?v=n169FgDroQw&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=7>`_ (17 min)
-	
+
 	by Yves Hwang, Varnish Software
 
 - **mod\_pagespeed and Varnish**
@@ -124,7 +125,7 @@ Friday, October 5th, 2012
 	@ `The Defector's Weld <http://defectors-weld.com/>`_
 
 -  `Contact/Map <http://defectors-weld.com/contact/>`_ & `Menu <http://defectors-weld.com/menus/>`_
-    	
+
 	Just 10 minutes away by walking
 
 **20ish - AfterParty**
@@ -230,9 +231,9 @@ The meeting is free of charge, but it requires registration, which is now closed
 ----------------
 Varnish User Day
 ----------------
-During Varnish User Day users can share their experiences with other users in the community and voice their current and future needs to the bydevelopment team. As you may have experienced, Varnish solves many challenges in the web today and will help you solving problems in the future. Obviously, this is something members of our community would like to know more about, `as previous meetings have shown <https://www.varnish-cache.org/trac/wiki/VUG>`_. 
+During Varnish User Day users can share their experiences with other users in the community and voice their current and future needs to the bydevelopment team. As you may have experienced, Varnish solves many challenges in the web today and will help you solving problems in the future. Obviously, this is something members of our community would like to know more about, `as previous meetings have shown <https://www.varnish-cache.org/trac/wiki/VUG>`_.
 
-So yes, this meeting will have presentations and even slides. We encourage users of our software to share and present their experience and talk about what they do with Varnish and what challenges it helps you solve. 
+So yes, this meeting will have presentations and even slides. We encourage users of our software to share and present their experience and talk about what they do with Varnish and what challenges it helps you solve.
 
 We look forward for it to be an useful in-depth meeting about Varnish, most likely topped off with some cold beer at the end of the day!
 
@@ -245,7 +246,7 @@ The developer group of Varnish Cache and Varnish modules aka VMODs will gather t
 -------------------------
 **Attendee Registration**
 -------------------------
-**Registration is now closed.** 
+**Registration is now closed.**
 
 If you want to be on the waiting list for any of the activities (User Day, Dinner, Dev Day) send an email to `ruben@varnish-software.com <mailto:ruben@varnish-software.com>`_.
 
@@ -426,4 +427,3 @@ Registered Participants
 +-------------------------------+------------------+----------------+--------------+---------------+
 | **Name**                      | **(IRC-)nick**   | **User Day**   | **Dinner**   | **Dev Day**   |
 +-------------------------------+------------------+----------------+--------------+---------------+
-

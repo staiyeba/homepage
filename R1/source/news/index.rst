@@ -15,8 +15,8 @@ Next major release
 
 	20160425_website.rst
 	20160411_website.rst
-	20151204_website.rst
-	20141119_website.rst
+	20151204_vug10_rotterdam.rst
+	20141119_vug9_barcelona.rst
 	20131128_vug8_berlin.rst
 	20130530_vug7_newyork.rst
 	20121005_vug6_london.rst

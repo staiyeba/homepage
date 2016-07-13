@@ -2,18 +2,19 @@
 
 Varnish User Group Meeting 8 (VUG8 Berlin)
 ------------------------------------------
+
 |Axel Springer HQ|
 
-`Varnish User Day is over now! <http://vug8.eventbrite.com>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`**Varnish User Day is over now!** <http://vug8.eventbrite.com>`_
+
 
 **A Great Thanx to:**
 
 .. csv-table::
-   :name: Thanx to
+   :name: vug8_sponsor1
    :delim: ,
    :header-rows: 1
-   :widths: 10
+   :widths: 100
    :file: tables/vug8_table1.csv
 
 We welcome you to VUG8, the Eight Varnish User Group Meeting will take place on November 27th to 29th, 2013 in Berlin, Germany.
@@ -22,89 +23,92 @@ for the hotel where the development team is staying (**Gatpoint Charlie**) and
 the locations (**Relexa Hotel** and **Axel Springer HQ**) we will be at during the event.
 If you have any VUG8 related proposal, inquiry, would like to hold a presentation or any question related to the event
 (**i.e. need to come but do not have a ticket?**)
-please send an email to `ruben@varnish-software.com <mailto:ruben@varnish-software.com>`_.
+please send an email to `ruben(at)varnish-software.com <mailto:ruben@varnish-software.com>`_.
 
-------------------------------------------------
-Developer Meeting @ Relexa Hotel Stuttgarter Hof
-------------------------------------------------
+-------------------------------------------------
+Developer Meeting at Relexa Hotel Stuttgarter Hof
+-------------------------------------------------
 
 **Wednesday, November 27th 2013**
 
 **Kindly Sponsored by:**
 
 .. csv-table::
-   :name: Meet us here
+   :name: vug8_sponsor2
    :delim: ,
    :header-rows: 0
-   :widths: 20, 20
+   :widths: 50, 50
    :file: tables/vug8_table2.csv
 
 
 More about the Venue and details :
 
 .. csv-table:: **Meet Us Here!**
-   :name: Meet us here
+   :name: vug8_venue1
    :delim: ,
    :header-rows: 0
-   :widths: 20, 50
+   :widths: 50, 50
    :file: tables/vug8_table3.csv
 
 **This is a HIGHLY technical meeting!**
 
------------------------------------
-Varnish User Day @ Axel Springer HQ
------------------------------------
+------------------------------------
+Varnish User Day at Axel Springer HQ
+------------------------------------
 
 **Thursday, November 28th 2013**
 
 **Kindly Sponsored by:**
 
 .. csv-table::
+   :name: vug8_sponsor11
    :delim: ,
-   :widths: 10
+   :widths: 100
    :file: tables/vug8_table1.csv
 
 More about the Venue and details :
 
 .. csv-table:: **Meet Us Here!**
-   :name: Meet us here
+   :name: vug8_venue2
    :delim: ,
    :header-rows: 0
-   :widths: 20, 50
+   :widths: 50, 50
    :file: tables/vug8_table4.csv
 
 **Agenda for the day:**
 
 .. csv-table::
-   :name:
+   :name: vug8_agenda1
    :delim: ,
    :header-rows: 1
-   :widths: 20, 50, 50, 50
+   :widths: 20, 30, 30, 20
    :file: tables/vug8_table5.csv
 
 **Everyone is invited!**
 
-------------------------------------------------------
-Hacking & Community Day @ Relexa Hotel Stuttgarter Hof
-------------------------------------------------------
+-------------------------------------------------------
+Hacking & Community Day at Relexa Hotel Stuttgarter Hof
+-------------------------------------------------------
 
 Friday, November 29th 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Kindly sponsored by**
+
 .. csv-table::
-   :name: Meet us here
+   :name: vug8_sponsor3
    :delim: ,
    :header-rows: 0
-   :widths: 20, 20
+   :widths: 50, 50
    :file: tables/vug8_table2.csv
 
 More about the Venue and details :
 
 .. csv-table:: **Meet Us Here!**
-  :name: Meet us here
+  :name: vug8_venue3
   :delim: ,
   :header-rows: 1
-  :widths: 20, 90
+  :widths: 20, 80
   :file: tables/vug8_table6.csv
 
 **Everyone is Invited!**

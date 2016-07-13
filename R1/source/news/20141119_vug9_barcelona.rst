@@ -32,7 +32,7 @@ If you have any VUG9 related proposal, inquiry, would like to hold a
 presentation (**we welcome proposals for Open Spaces Slots**) or any
 question related to the event (**i.e. need to come but do not have a
 ticket or have no invitation?**) please send an email to 
-`ruben@varnish-software.com <mailto:ruben@varnish-software.com>`_.
+`ruben(at)varnish-software.com <mailto:ruben@varnish-software.com>`_.
 
 For those of you that are in Barcelona on the evening of Tuesday,
 November 18th (for Velocity or otherwise) you might want to join us for
@@ -41,8 +41,8 @@ Dyn Inc has kidnly invited all members of the Varnish community to join.
 
 
 
-Varnish Barcelona Meetup @ Wayra Barcelona
-------------------------------------------
+Varnish Barcelona Meetup at Wayra Barcelona
+--------------------------------------------
 
 Wednesday, November 19th 2014
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ Wednesday, November 19th 2014
 **Kindly sponsored by:**
 
 .. csv-table::
-   :name: Thanx to
+   :name: vug9_sponsor1
    :delim: ,
    :header-rows: 0
    :widths: 10, 10
@@ -59,7 +59,7 @@ Wednesday, November 19th 2014
 **Meet Us Here:**
 
 .. csv-table::
-  :name: Meet Up
+  :name: vug9_venue1
   :delim: ,
   :header-rows: 1
   :widths: 10,30
@@ -72,7 +72,7 @@ Wednesday, November 19th 2014
 
 
 Varnish User Day as part of `WebPerfDays Barcelona <http://www.webperfdays.org/events/2014-barcelona/>`_
--------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
 
 Thursday, November 20th 2014
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,7 +80,7 @@ Thursday, November 20th 2014
 **Kindly sponsored by:**
 
 .. csv-table::
-  :name: sponsers
+  :name: vug9_sponsor2
   :delim: ,
   :header-rows: 0
   :widths: 10,10
@@ -98,7 +98,7 @@ site <http://www.webperfdays.org/events/2014-barcelona/register.html>`_ !
 **Agenda for the day:**
 
 .. csv-table::
-  :name: sponsers
+  :name: vug9_venue2
   :delim: ,
   :header-rows: 1
   :widths: 10, 50, 30
@@ -111,8 +111,8 @@ site <http://www.webperfdays.org/events/2014-barcelona/register.html>`_ !
 -------------------
 
 
-Core Developer Meeting @ Telefónica I+D
----------------------------------------
+Core Developer Meeting at Telefónica I+D
+----------------------------------------
 
 Friday, November 21st 2014
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,7 +120,7 @@ Friday, November 21st 2014
 **Kindly sponsored by:**
 
 .. csv-table::
-   :name: Thanx to
+   :name: vug9_sponsor3
    :delim: ,
    :header-rows: 0
    :widths: 10, 10
@@ -130,7 +130,7 @@ Friday, November 21st 2014
 **Meet Us Here:**
 
 .. csv-table::
-   :name: Thanx to
+   :name: vug9_venue3
    :delim: ,
    :header-rows: 1
    :widths: 10, 10

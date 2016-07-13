@@ -1,3 +1,19 @@
-**Venue**,Engels Conference Center B.V. Stationsplein 45 3013 AK Rotterdam Nederland
-**Who**,"Varnish hackers, VMOD and plugin developers and any other interested parties."
-**Agenda**,`See the wiki <https://www.varnish-cache.org/trac/wiki/VDD15Q4>`_ for additional information and registration
+**Time**,**Activity/Speakers**,**Topic and duration** (Talk + Q&A time)
+**9:00**,**Registration and Sign-In – 30min**,**Get your badge and get ready for the day!**
+09:30,"Rubén Romero, Varnish Software","Welcome, Introduction &  Agenda for the Day (15 min)"
+09:45,"Phil Stanhope, Dyn Inc","""Look Now, Look Back, See Forward."" (PDF) (30min)"
+**10:15**,"**Poul-Henning Kamp, Chief Architect, Varnish Project**",“The future ain’t what it used to be” - Keynote ( `PDF <http s://www.varnish-cache.or g/sites/default/files/ph k_vug10.pdf>`__ ) (45 Min)
+**11:00**,**Break - 15 min**,**Get some coffee and do some mingling**
+11:15,"Dag Haavi Finstad, Varnish Software",“Hitch - a scalable TLS proxy” ( `PDF <https://www.var nish-cache.org/sites/def ault/files/VUG10-Hitch-d aghf.pdf>`__ ) (30 min)
+11:45,"Kristian Lyngstøl, Redpill Linpro",“The Varnish Agent: REST API and more!” ( `PDF <https://www.var nish-cache.org/sites/def ault/files/VUG10-kristia n-asfasf-varnishagent2.p df>`__ ) (30 Min)
+**12:15**,** Lunch Break - 1 hour**,"**Get some food, hydrate and do some mingling**"
+13:15,"Lasse Karstensen, Varnish Software",“An update from the Release Manager” **(PDF) ** (30 min)
+13:45,"Nils Goroll, Uplex",“Lesser known VMODs” (**PDF **) (30 min)
+14:15,"Thijs Feryn, Combell / PHPBeNeLux","“Let the application do the work, not the VCL”( `HTML <https://speake rdeck.com/thijsferyn/let -the-application-do-the- work-not-the-vcl>`__ ) (30 min)"
+14:45,"Dridi Boukelmoune, Varnish Software",“Cloudy-cloud-enabled: Dynamic backends in Varnish” ( `PDF <https://www.var nish-cache.org/sites/def ault/files/vug-10-dynami c-backends_dridi.pdf>`__ )(30 min)
+15:15,**Break - 15 min**,**Get some coffee and do some mingling** (15 min)
+15:30,"Kacper Wysocki, WHY Wysocki Secure Systems",“Varnish Security Firewall: An Update” ( `HTML <http://www.del ta9.pl/public/whyvsf2015 /#/varnish-security-fire wall>`__ ) (30 min)
+16:00,"Rubén Romero, Varnish Software","Outro, Thank you and Good Bye (15 min)"
+**16:15**,**Mingling - 1 hour**,"Thank you so much to everyone, specially organizers and sponsors!"
+18ish,**Dinner after the event**,**Grab some food together**
+22ish,After Party,Go for some drinks in the area

@@ -23,7 +23,7 @@ Varnish User Group Meeting 10 (VUGX Rotterdam)
 If you have anyvug10 related proposal, inquiry, would like to hold a
 presentation (**we welcome proposals for Open Spaces Slots**) or any
 question related to the event (**i.e. need to come but do not have a ticket or have no invitation?**)
-please send an email to `ruben@varnish-software@com <mailto:ruben@varnish-software.com>`_.
+please send an email to `ruben(at)varnish-software.com <mailto:ruben@varnish-software.com>`_.
 
 For those of you that are in Rotterdam on the evening of Wednesday,
 December 2nd and/or Thursday 3rd you might want to join us for
@@ -32,7 +32,7 @@ dinner.
 --------------
 
 Varnish User Day @ **Engels Conference Center, Rotterdam, The Netherlands**
--------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 Thursday,December 3rd 2015
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,32 +40,31 @@ Thursday,December 3rd 2015
 **Kindly sponsored by:**
 
 .. csv-table::
-   :name: Thanx to
+   :name: vug10_sponsor1
    :delim: ,
    :header-rows: 0
-   :widths: 10, 10, 10
+   :widths: 40, 30, 30
    :file: tables/vug10_table1.csv
 
-**Venue: Engels Conference Center B.V. Stationsplein 45 3013 AK 
-Rotterdam Nederland**
+**Meet us here!**
 
-**Who:** All **Varnish Cache Users, Developers, Administrators, Web
-Architects** and other techies wanting to know more about the software
-and how it is used by others.
-
-**Booking:** `Get your ticket on
-Eventbrite <http://vug10.eventbrite.co.uk>`_ !
+.. csv-table::
+  :name: vug10_venue1
+  :delim: ,
+  :header-rows: 0
+  :widths: 50, 50
+  :file: tables/vug10_table2.csv
 
 **Agenda for the day:**
 
 .. csv-table::
-   :name: Thanx to
+   :name: vug10_agenda1
    :delim: ,
    :header-rows: 0
-   :widths: 10, 20, 40
-   :file: tables/vug10_table2.csv
+   :widths: 20, 30, 50
+   :file: tables/vug10_table3.csv
 
-**Everyone can join.**
+**Everyone can join!**
 
 --------------
 
@@ -78,20 +77,20 @@ Friday, December 4th, 2015
 **Kindly sponsored by:**
 
 .. csv-table::
-   :name: sponsors
+   :name: vug10_sponsor2
    :delim: ,
    :header-rows: 0
-   :widths: 10, 10
+   :widths: 30, 30, 40
    :file: tables/vug10_table1.csv
 
 **Meet us here:**
 
 .. csv-table::
-   :name: Thanx to
+   :name: vug10_venue2
    :delim: ,
    :header-rows: 0
-   :widths: 10, 20
-   :file: tables/vug10_table3.csv
+   :widths: 30, 70
+   :file: tables/vug10_table4.csv
 
 ----------------------
  
@@ -103,3 +102,4 @@ Thanks! :)
 .. vug10_table1 table
 .. vug10_table2 table
 .. vug10_table3 table
+.. vug10_table4 table
