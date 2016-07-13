@@ -10,7 +10,7 @@ ecosystem.
 These utilities range from simple VCL edition enhancements, various
 cache invalidating solutions, node & cluster management to plugins for
 several monitoring and statistics tools. If you would like to add new
-utilities or make changes send a PR to `this github repo <https://github.com/varnishcache/homepage/>`__ 
+utilities or make changes send a PR to `this github repo <https://github.com/varnishcache/homepage/>`__
 and we will be happy to include it.
 
 For Varnish Modules or extensions please see the :ref:`vmods`

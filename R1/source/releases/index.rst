@@ -72,4 +72,4 @@ Varnish Cache 3.0.4        2013-06-17   End Of Life `varnish-3.0.4.tar.gz`_
 	install_ubuntu
 	install_debian
 	install_redhat
-
+	/vmods/index
