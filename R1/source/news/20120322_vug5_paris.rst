@@ -5,19 +5,14 @@
 (VUG5 Paris)
 ------------
 
-Thank you for a great VUG5 and your feedback! See the `event report here <https://www.varnish-cache.org/vug5-report>`_ .
+Thank you for a great VUG5 and your feedback! See the `event report here <https://old.varnish-cache.org/vug5-report>`_ .
 
 Event Description and Conference Program/Slides
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Sponsored by  `Capgemini <http://www.fr.capgemini.com/>`_  and `Varnish
-Software <https://www.varnish-software.com>`_ , the Fifht Varnish User Group meeting was held in Paris. The meeting went over two days: A
-conference style    User Day and an unconference toned Developer Day.
+Sponsored by  `Capgemini <http://www.fr.capgemini.com/>`_  and 
+`Varnish Software <https://www.varnish-software.com>`_ , the Fifht Varnish User Group meeting was held in Paris. The meeting went over two days: A
+conference style  User Day and an unconference toned Developer Day.
 Thank you everyone for coming!     We had in total around 60 users on day 1 and 30 developers on day 2.
-
-**Varnish User Day @ La Défense**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Thursday, March 22nd, 2012
-
 
 .. csv-table:: **Meet Us Here**
    :name: vug5_venue1
@@ -38,7 +33,7 @@ Thursday, March 22nd, 2012
 ----------------
 VUG5 Description
 ----------------
-Travel & Accommodation: Check `Hotels.com <http://www.hotels.com>`_ and see `this link <https://www.varnish-cache.org/trac/wiki/VUG5#GeneralInformation>`_ for transport help. \n Registration: The meeting is free of charge, but it requires registration, which is now closed.
+Travel & Accommodation: Check `Hotels.com <http://www.hotels.com>`_ and see `this link <https://old.varnish-cache.org/trac/wiki/VUG5#GeneralInformation>`_ for transport help. \n Registration: The meeting is free of charge, but it requires registration, which is now closed.
 
 ----------------
 Varnish User Day

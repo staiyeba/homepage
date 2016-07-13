@@ -13,7 +13,7 @@ Varnish User Group Meeting 9 (VUG9 Barcelona)
 
 **Thanks to**
 
-`Dyn Inc <https://www.varnish-cache.org/dyn.com>`_
+`Dyn Inc <https://www.dyn.com>`_
 
 `Telefónica <http://www.telefonica.com/en/>`_
 

@@ -10,7 +10,7 @@ Varnish User Group Meeting 10 (VUGX Rotterdam)
 
 **Thanks to**
 
-`Dyn Inc <https://www.varnish-cache.org/dyn.com>`_
+`Dyn Inc <https://www.dyn.com>`_
 
 `FloorPlanner.com <http://www.FloorPlanner.com>`_
 

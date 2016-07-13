@@ -19,7 +19,7 @@ Developer Meeting at 10gen HQ
 
 -  **Venue:** `10gen HQ, 229 W. 43rd Street, Floor 5, NY, NY 10036, USA <http://goo.gl/maps/i1ziE>`_
 -  **Who:** **Only for C developers** working on the **Varnish core, tools & modules (VMODs)**.
--  **Agenda:** `See the wiki <https://www.varnish-cache.org/trac/wiki/VDD13Q2>`_ for additional information and registration. See the `notes from the meeting <https://www.varnish-cache.org/trac/wiki/VDD13Q2_notes>`_.
+-  **Agenda:** `See the wiki <https://old.varnish-cache.org/trac/wiki/VDD13Q2>`_ for additional information and registration. See the `notes from the meeting <https://old.varnish-cache.org/trac/wiki/VDD13Q2_notes>`_.
 
 **This is a HIGHLY technical meeting!**
 

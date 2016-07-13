@@ -5,7 +5,7 @@
 (VUG6 London)
 -------------
 
-Thank you for a great event and your feedback! Make sure to check the `VUG6 report <https://www.varnish-cache.org/vug6-report>`_ and
+Thank you for a great event and your feedback! Make sure to check the `VUG6 report <https://old.varnish-cache.org/vug6-report>`_ and
 the `notes from the Developer day <https://docs.google.com/a/varnish-software.com/spreadsheet/ccc?key=0Apb8MyYPKVqZdDlNTHl2dExMRllrSV9HUnBLdkxwb3c#gid=0>`_.
 
 Sponsored by `The British Broadcasting Corporation (BBC) <http://www.bbc.co.uk/>`_ and
@@ -40,7 +40,7 @@ The meeting is free of charge, but it requires registration, which is now closed
 ----------------
 Varnish User Day
 ----------------
-During Varnish User Day users can share their experiences with other users in the community and voice their current and future needs to the by development team. As you may have experienced, Varnish solves many challenges in the web today and will help you solving problems in the future. Obviously, this is something members of our community would like to know more about, `as previous meetings have shown <https://www.varnish-cache.org/trac/wiki/VUG>`_.
+During Varnish User Day users can share their experiences with other users in the community and voice their current and future needs to the by development team. As you may have experienced, Varnish solves many challenges in the web today and will help you solving problems in the future. Obviously, this is something members of our community would like to know more about, `as previous meetings have shown <https://old.varnish-cache.org/trac/wiki/VUG>`_.
 
 So yes, this meeting will have presentations and even slides. We encourage users of our software to share and present their experience and talk about what they do with Varnish and what challenges it helps you solve.
 
