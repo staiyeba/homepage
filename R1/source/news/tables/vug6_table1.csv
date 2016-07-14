@@ -6,35 +6,35 @@ Fully booked (80 participants),Fully booked (20 participants)
 **08.45 – Registration**,Bishops Room from 9.00 to 18.00
 **Breakfast served (Reception Room)**,"Screen, LCD projector, 2 flipcharts stationery and still"
 **09.20 – Welcome**,WiFi for every delegate
-"Agenda & Introductions ( `PDF <https://old.varnish-cache.org/sites/default/files/01_VUG6%20-%20opening%20-%20Hildur%20copy.pdf>`__ ) by Hrafnhildur Smaradottir, VUG6 Hostess, Varnish Software",Sparkling water
+"Agenda & Introductions ( `PDF <https://www.varnish-cache.org/news/files/01_VUG6%20-%20opening%20-%20Hildur%20copy.pdf>`__ ) by Hrafnhildur Smaradottir, VUG6 Hostess, Varnish Software",Sparkling water
 "09.30 - PHK's Keynote (on HTTP/2.0) (45 min) by Poul-Henning Kamp, Varnish Chief Architect","3 coffee breaks with refreshments, fruits and juices and cakes throughout the day"
-( `PDF <https://old.varnish-cache.org/sites/default/files/02_VUG6-PHK_Keynote.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=5NYQaDjfcMw&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=1>`__ ) ,3 course buffet lunch in the restaurant or hot and cold working lunc
+( `PDF <https://www.varnish-cache.org/news/files/02_VUG6-PHK_Keynote.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=5NYQaDjfcMw&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=1>`__ ) ,3 course buffet lunch in the restaurant or hot and cold working lunc
 10.15 - Presentations,**Agenda**
 "Varnish at the BBC: Winning Gold in the London 2012 Olympics (30 min) by Graham Lyons, BBC",10.00 - boot
  ( `PDF  <http://www.slideshare.net/grahamlyons/varnish-at-the-bbc>`__ ) ( `Video <https://www.youtube.com/watch?v=UBVN0CthfO4&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=2>`__ ) ,Welcome and Introductions
 "Summoning super hero powers of Varnish, Drupal and open source at KPN   (20 min) by Paul Krischer, KPN",Topic Discussions
- ( `PDF <https://old.varnish-cache.org/sites/default/files/04_VarnishDrupalatKPN.pdf>`__ )(  `Video <https://www.youtube.com/watch?v=JeuIAtukq0c&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=3>`__ ),**13.00 – Lunch**
+ ( `PDF <https://www.varnish-cache.org/news/files/04_VarnishDrupalatKPN.pdf>`__ )(  `Video <https://www.youtube.com/watch?v=JeuIAtukq0c&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=3>`__ ),**13.00 – Lunch**
 **11.15 - Coffee break & Mingling**,Topic Discussions
 11.45 - Presentations continued,**17.00 – Round-up**
 "Not everyone respects the rules: implementing Varnish on existing sites  (30min) by Thijs Feryn, Combell",**Topics:**
-( `PDF  <https://old.varnish-cache.org/sites/default/files/05_varnish_rules_vug6.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=WPgwn-gyoj0&list=PLZr%207OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=4>`__ ),**Topics that have a person-in-charge:**
+( `PDF  <https://www.varnish-cache.org/news/files/05_varnish_rules_vug6.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=WPgwn-gyoj0&list=PLZr%207OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=4>`__ ),**Topics that have a person-in-charge:**
 "All the way from 0.8 to 3.0: Varnish @ VG  (35 min)  by Audun Ytterdal, VG Multimedia ",**Why HTTP/2.0 is hard** by Poul-Henning Kamp
 ( `HTML <http://www.vg.no/presentations/slides/VUG2012.html#/>`__ ) ( `Video <https://www.youtube.com/watch?v=JYcGU0jwsdk&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=5>`__ ) ,**Additional Topics:**
 12.30 - Lunch break,**Persistent Storage – Status** by Martin Blix Grydeland
 BBC sponsored lunch (Reception Room),**Varnish 3.1 - Status Discussion** by Tollef Fog Heen
 13.30 - Presentations continued,**Body Access in VCL**
 "Smart Pre-Fetching: Varnish @ Yakaz.com   (25 min) by Pierre-Gilles Mialon, Yakaz.com",- **Mangling <body> content (Mod_PageSpeed)** by Google
-( `PDF  <https://old.varnish-cache.org/sites/default/files/07_Warm_Up_Your_Cache_Pierre-Gilles_yakaz-com.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=X-JFAaVjZk0&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=6>`__ ),**Request Body Access (Varnish Firewall / Security.VCL project)** by Kacper Wysocki
+( `PDF  <https://www.varnish-cache.org/news/files/07_Warm_Up_Your_Cache_Pierre-Gilles_yakaz-com.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=X-JFAaVjZk0&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=6>`__ ),**Request Body Access (Varnish Firewall / Security.VCL project)** by Kacper Wysocki
 "Varnish Administration Console (17 min) by Yves Hwang, Varnish Software",**Backends as first class objects in Varnish**
-( `PDF  <https://old.varnish-cache.org/sites/default/files/09_vac_yveshwang_vug6.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=n169FgDroQw&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=7>`__ )  ,- **Adding Backends on the Fly (aka dynamically)** by Poul-Henning Kamp
+( `PDF  <https://www.varnish-cache.org/news/files/09_vac_yveshwang_vug6.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=n169FgDroQw&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=7>`__ )  ,- **Adding Backends on the Fly (aka dynamically)** by Poul-Henning Kamp
 "mod_pagespeed and Varnish  (35 min) by Ilya Grigorik, Google",**Moving Directors to VMODs** by Poul-Henning Kamp
-( `PDF  <https://old.varnish-cache.org/sites/default/files/08_mod_pagespeed_Varnish_Ilya-Google.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=nvhobfaMDF0&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=8>`__ ) ,**Improving the Varnish Docs** by Andreas Plesner Jacobsen
+( `PDF  <https://www.varnish-cache.org/news/files/08_mod_pagespeed_Varnish_Ilya-Google.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=nvhobfaMDF0&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=8>`__ ) ,**Improving the Varnish Docs** by Andreas Plesner Jacobsen
 "Holiday Extras: Who are we, what do we do and why/how we Varnish (25 min) by Mark Fermor, Holiday Extras",**Additional Topics:**
-( `PDF  <https://old.varnish-cache.org/sites/default/files/10_Varnish_Presentation_Holidays-Extras.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=VFewu2QqyGE&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=9>`__ )  ,These topics need a driver during the meeting:
+( `PDF  <https://www.varnish-cache.org/news/files/10_Varnish_Presentation_Holidays-Extras.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=VFewu2QqyGE&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=9>`__ )  ,These topics need a driver during the meeting:
 **15.30 - Coffee break and Mingling**,"**General housekeeping:** Trac, syncing internal Varnish Software ""work items"" with Trac/community"
 **15.45 - Presentations continued (30 min each)**,**Varnish with no C compiler available:** In environments which do not allow compilers in production systems
 "Varnish Release Status (15 min) by Tollef Fog Heen, Release Manager, Varnish Software",**PROXY protocol support:** Coming?
-( `PDF  <https://old.varnish-cache.org/sites/default/files/11_VUG6%20-%20Release%20status_Tollef.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=9ZPyofwy4-o&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=10>`__ )  ,**External SSL Termination support:** How could we go about this?
+( `PDF  <https://www.varnish-cache.org/news/files/11_VUG6%20-%20Release%20status_Tollef.pdf>`__ ) ( `Video <https://www.youtube.com/watch?v=9ZPyofwy4-o&list=PLZr7OWfYMtbHOHJxO4fW-NBe7abCBrMPi&index=10>`__ )  ,**External SSL Termination support:** How could we go about this?
 "16.15 - Rounding Up VUG6 by Rubén Romero, Varnish Software",The order of topic discussions is subject to change.
 **16.30 - Varnish Mingling (Reception Room)** **Sponsored Beer by BBC and T-shirts by Varnish Software **,
 **17.00 - We leave the BBC Media Centre**,

@@ -1,34 +1,34 @@
-Varnish User Day at La Défense,Varnish Developer Day at Suresnes
+**Varnish User Day at La Défense**,**Varnish Developer Day at Suresnes**
 **09.00 - Registration & Welcome**,**09.00 – boot**
 **Breakfast served**,**Breakfast served**
 **09.15 - Agenda & Introductions**,**9-15 - Presentations and Topics to be discussed:**
-Intro & Varnish Status Web GUIby Rubén Romero ,Welcome and Introduction Round
+`Intro & Varnish Status Web GUI <https://www.varnish-cache.org/news/files/VUG5 - Introductions_0.pdf>`_ by Rubén Romero ,Welcome and Introduction Round
 **09.30 - Keynote (~30 min + Q&A)**,Varnish Governing Board status by Kristian
-Varnish until 2020 by Poul-Henning Kamp,"Reiteration of ""Varnish until 2020"" - development"
+`Varnish until 2020 <https://www.varnish-cache.org/news/files/VUG5-Keynote_Varnish_2020-PHK.pdf>`_ by Poul-Henning Kamp,"Reiteration of ""Varnish until 2020"" - development"
 **10.15 - Presentations (15 & 30 min)**,SPDY / HTTP 2.0 - what is going on
-The Varnish Book by Kristian Lyngstøl,Dynamic Backends (defined by DNS TTL or record change)
-Distilled Varnish and Escenic experience by Richard Zuidhof,"Conditional Backend Requests (aka GET If-Modified-Since) and vcl_stale(), vcl_refresh()"
+`The Varnish Book <http://kly.no/presentations/2012_03_22_Varnish_Book.pdf>`_ by Kristian Lyngstøl,Dynamic Backends (defined by DNS TTL or record change)
+`Distilled Varnish and Escenic experience <https://www.varnish-cache.org/news/files/VUG5-Varnish_Escenic-%20RZ.pdf>`_ by Richard Zuidhof,"`Conditional Backend Requests <https://www.varnish-cache.org/news/files/VUG5_IMS_uplex.pdf>`_ (aka GET If-Modified-Since) and vcl_stale(), vcl_refresh()"
 **11.00 - Coffee break**,by Uplex 
 **11.15 - Presentations continued (15-30 min each)**,**2.00 - Lunch**
-Mobile Device Detection in Varnish by Lasse Karstensen,At some restaurant in Suresnes (we leave together and come back together)
-Avoiding Configuration Pitfalls by Andreas Plesner,"hit_for_pass usage in default.vcl in relation to status codes that varnish gives a -1 TTL by default. (503, 500, 401, 403, etc.)"
-Dynamic E-Commerce Site acceleration by Lionel Touati,Streaming Pass&Fetch On by deFault
+`Mobile Device Detection in Varnish <https://www.varnish-cache.org/news/files/VUG5-Mobile_Device_Detection_Varnish-Lasse.pdf>`_ by Lasse Karstensen,At some restaurant in Suresnes (we leave together and come back together)
+`Avoiding Configuration Pitfalls <https://www.varnish-cache.org/news/files/VUG5-Varnish_common_configuration_mistakes-AndreasP.pdf>`_ by Andreas Plesner,"hit_for_pass usage in default.vcl in relation to status codes that varnish gives a -1 TTL by default. (503, 500, 401, 403, etc.)"
+`Dynamic E-Commerce Site acceleration <https://www.varnish-cache.org/news/files/VUG5-E-Commerce_Acceleration-MdM-LT.pdf>`_ by Lionel Touati,Streaming Pass&Fetch On by deFault
 **12.30 - Lunch break (Self-covered)**,Persistent Storage - que vadis
 Pick your own restaurant around La Défense,Multiple Storage Tiers (and priority) 
 **14.30 - Presentations continued (30 min each)**,VMOD API and Packaging
-Securing your web stack with Varnish by Kacper Wysocki,Experiences so far
-A VMOD walk-through by Kristian Lyngstøl,Whats in store for VMODs
+`Securing your web stack with Varnish <http://www.delta9.pl/public/varnishsec/>`_ by Kacper Wysocki,Experiences so far
+`A VMOD walk-through <http://kly.no/presentations/2012_03_22_Varnish_Cache_Vmods.pdf>`_ by Kristian Lyngstøl,Whats in store for VMODs
 **15.30 - Coffee break and mingling**,X-Forwarded-For problems with IP (from the client to server)
 **15.45 - Presentations continued (30 & 15 min)**,**15.30 - Coffe & Snacks Break**
-Varnish in the Financial Sector by Federico Schwindt,How should Etags+Gzip work (see #940)
-"Varnish @ Opera (G eoIP, Headers, 2.1>3.0) by Cosimo Streppone ",SSL Support? (PROXY support / SSL Termination)
-Upcoming Features in Varnish Cache by Tollef Fog Heen,Better Documentation (specially for Web Developers)
+`Varnish in the Financial Sector <https://www.varnish-cache.org/news/files/VUG5-Financial_Sector_ESI_Varnish-FS.pdf>`_ by Federico Schwindt,How should Etags+Gzip work (see #940)
+"`Varnish @ Opera <http://www.slideshare.net/cstrep/vug5-varnish-at-opera-software/>`_ ( `GeoIP, Headers, 2.1>3.0 <http://www.slideshare.net/cstrep/vug5-varnish-at-opera-software/>`_ ) by Cosimo Streppone ",SSL Support? (PROXY support / SSL Termination)
+`Upcoming Features in Varnish Cache <https://www.varnish-cache.org/news/files/VUG5_Varnish-Future-TollefFH.pdf>`_ by Tollef Fog Heen,Better Documentation (specially for Web Developers)
 "**16.30 - Rounding Up, VUG6 ** by Rubén Romero",Dynamic Counters
 **16.45 - We leave La Défense**,**The order of topic discussions is subject to change.**
 **Night Out @ Opéra - Paris 09 (Self-Covered)**,**Night Out @ Opéra - Paris 09 (Self-Covered)**
-**19.30 - Beer at Hotel de L'Ocean**,**19.30 - Beer at Hotel de L'Ocean**
+**19.30 - Beer at** `Hotel de L'Ocean <http://www.paris-hotel-ocean.com/pages/situation.html>`_,**19.30 - Beer at Hotel de L'Ocean**
 Meet up at our lobby for a beer,Meet up at our lobby for a beer
-**20.00 - Dinner at Le Sâotico**,**20.00 - Dinner at Le Sâotico**
+**20.00 - Dinner at** `Le Sâotico <http://www.saotico.com/contacts.asp>`_,**20.00 - Dinner at Le Sâotico**
 Reserved for up to 60 people (43 confirmed),Reserved for up to 60 people (43 confirmed)
 "**23.30 - Move over to a Bar, or:**","**23.30 - Move over to a Bar, or:**"
 **...Sleep...**,**...Sleep...**

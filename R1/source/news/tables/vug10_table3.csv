@@ -4,13 +4,13 @@
 09:45,"Phil Stanhope, Dyn Inc","""Look Now, Look Back, See Forward."" (PDF) (30min)"
 10:15,"Poul-Henning Kamp, Chief Architect, Varnish Project",`“The future ain’t what it used to be” (PDF) <https://www.varnish-cache.or g/sites/default/files/phk_vug10.pdf>`_ - Keynote (45 min)
 11:00,Break - 15 min,Get some coffee and do some mingling
-11:15,"Dag Haavi Finstad, Varnish Software",`“Hitch - a scalable TLS proxy”(PDF) <https://old.varnish-cache.org/sites/default/files/VUG10-Hitch-daghf.pdf>`_ (30 min)
-11:45,"Kristian Lyngstøl, Redpill Linpro",`“The Varnish Agent: REST API and more!” (PDF) <https://old.varnish-cache.org/sites/default/files/VUG10-kristia n-asfasf-varnishagent2.pdf>`_ (30 min)
+11:15,"Dag Haavi Finstad, Varnish Software",`“Hitch - a scalable TLS proxy”(PDF) <https://www.varnish-cache.org/news/files/VUG10-Hitch-daghf.pdf>`_ (30 min)
+11:45,"Kristian Lyngstøl, Redpill Linpro",`“The Varnish Agent: REST API and more!” (PDF) <https://www.varnish-cache.org/news/files/VUG10-kristia n-asfasf-varnishagent2.pdf>`_ (30 min)
 12:15, Lunch Break - 1 hour,"Get some food, hydrate and do some mingling"
 13:15,"Lasse Karstensen, Varnish Software",“An update from the Release Manager” (PDF)  (30 min)
 13:45,"Nils Goroll, Uplex",“Lesser known VMODs” (PDF ) (30 min)
 14:15,"Thijs Feryn, Combell / PHPBeNeLux","`“Let the application do the work, not the VCL” (HTML) <https://speakerdeck.com/thijsferyn/let-the-application-do-the-work-not-the-vcl>`_ (30 min)"
-14:45,"Dridi Boukelmoune, Varnish Software",`“Cloudy-cloud-enabled: Dynamic backends in Varnish” (PDF) <https://old.varnish-cache.org/sites/default/files/vug-10-dynamic-backends_dridi.pdf>`_ (30 min)
+14:45,"Dridi Boukelmoune, Varnish Software",`“Cloudy-cloud-enabled: Dynamic backends in Varnish” (PDF) <https://www.varnish-cache.org/news/files/vug-10-dynamic-backends_dridi.pdf>`_ (30 min)
 15:15,Break - 15 min,Get some coffee and do some mingling (15 min)
 15:30,"Kacper Wysocki, WHY Wysocki Secure Systems",`“Varnish Security Firewall: An Update” (HTML) <http://www.delta9.pl/public/whyvsf2015 /#/varnish-security-firewall>`_ (30 min)
 16:00,"Rubén Romero, Varnish Software","Outro, Thank you and Good Bye (15 min)"
